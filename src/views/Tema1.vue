@@ -145,7 +145,7 @@
             LineaTiempoD.color-acento-botones.especial
               .row(numero="1" titulo="Ciberespacio público")
                 .col-12.mb-4.mb-md-0
-                  p Comprende las áreas de Internet de libre acceso para todos los usuarios, como sitios web informativos, redes sociales abiertas y foros públicos. Es un espacio de intercambio global donde la información circula sin restricciones significativas.
+                  p Comprende las áreas de Internet de libre acceso para todos los usuarios, como sitios <em>web</em> informativos, redes sociales abiertas y foros públicos. Es un espacio de intercambio global donde la información circula sin restricciones significativas.
               
               .row(numero="2" titulo="Ciberespacio privado")
                 .col-12.mb-4.mb-md-0
@@ -169,7 +169,7 @@
 
               .row(numero="7" titulo="Ciberespacio criminal")
                 .col-12.mb-4.mb-md-0
-                  p Incluye redes clandestinas y foros utilizados para actividades ilícitas, como el tráfico de datos, la ciberdelincuencia y los ataques informáticos. El "dark web" es un ejemplo representativo de este tipo de ciberespacio.
+                  p Incluye redes clandestinas y foros utilizados para actividades ilícitas, como el tráfico de datos, la ciberdelincuencia y los ataques informáticos. El "<em>dark web</em>" es un ejemplo representativo de este tipo de ciberespacio.
 
           .col-lg-4.col-6.col-md-6.col-8.order-lg-2.order-1.mb-lg-0.mb-3.d-none.d-lg-block
             figure

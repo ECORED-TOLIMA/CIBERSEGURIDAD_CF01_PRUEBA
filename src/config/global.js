@@ -182,28 +182,125 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '3.1. Actores del cibercrimen',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Tipos de hackers [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Puk3JZ5R_Ic',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '3.6. Mecanismos de reporte y prevención',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Seguridad de la información [Video]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=OC8x73OfV6s&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
+    },
+    {
+      tema: '3.6. Mecanismos de reporte y prevención',
+      referencia:
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Herramientas y estrategias de protección: antivirus gratuitos [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=jqL1RwFft-0',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Ciberespacio',
+      significado: 'entorno digital global de interconexión.',
+    },
+    {
+      termino: 'Ciberseguridad',
+      significado: 'protección de sistemas y datos contra amenazas digitales.',
+    },
+    {
+      termino: 'Contraseña fuerte',
+      significado:
+        'una contraseña que es difícil de adivinar o descifrar. Normalmente, incluye una combinación de letras mayúsculas y minúsculas, números y caracteres especiales, y tiene una longitud considerable.',
+    },
+    {
+      termino: '<em>Firewall</em>',
+      significado:
+        'herramienta de seguridad que monitorea y controla el tráfico de red, permitiendo o bloqueando el acceso a un sistema o red según reglas de seguridad predefinidas.',
+    },
+    {
+      termino: 'Fraude electrónico',
+      significado:
+        'uso de la tecnología y de Internet para realizar actividades fraudulentas, como el robo de identidad, el acceso no autorizado a cuentas bancarias o el uso indebido de tarjetas de crédito para obtener beneficios económicos.',
+    },
+    {
+      termino: '<em>Hacking</em> ético',
+      significado:
+        'práctica de evaluar la seguridad de sistemas informáticos de manera legal y con permiso, buscando vulnerabilidades para corregirlas antes de que los ciberdelincuentes puedan explotarlas.',
+    },
+    {
+      termino: '<em>Malware</em>',
+      significado:
+        'abreviatura de “<em>software</em> malicioso”, es cualquier <em>software</em> diseñado para dañar, interrumpir o acceder a sistemas informáticos sin el consentimiento del propietario. Incluye virus, troyanos, gusanos, etc.',
+    },
+    {
+      termino: '<em>Phishing</em>',
+      significado: 'técnica de engaño para obtener información confidencial.',
+    },
+    {
+      termino: '<em>Ransomware</em>',
+      significado:
+        'programa maligno que bloquea archivos hasta recibir un pago.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Dempsey, J. X., & Carlin, J. P. (2024). Cybersecurity law fundamentals.',
+      link: '',
+    },
+    {
+      referencia:
+        'Departamento Administrativo de la Función Pública. (2009). Ley 1273 de 2009 - Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado, denominado "de la protección de la información y de los datos".',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34492',
+    },
+    {
+      referencia:
+        'Europol. (2024). Internet Organised Crime Threat Assessment (IOCTA) 2024.',
+      link:
+        'https://www.europol.europa.eu/cms/sites/default/files/documents/Internet%20Organised%20Crime%20Threat%20Assessment%20IOCTA%202024.pdf ',
+    },
+    {
+      referencia:
+        'Ferrer, E. A. (2023). Estudios de cibercrimen. Ediciones Olejnik.',
+      link: '',
+    },
+    {
+      referencia:
+        'Lux, L. M., & Calderón, G. O. (2020). The crime of cyber fraud: Definition and delimitation. Revista Chilena de Derecho y Tecnología, 9(1), 151-184.',
+      link: '',
+    },
+    {
+      referencia:
+        'Madariaga, A. S. (2024). Código penal y código de procedimiento penal: Comentado jurisprudencialmente. Grupo Editorial Ibañez.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y las Comunicaciones (MinTIC). (2016, junio 29). Los delincuentes cibernéticos no toman vacaciones: consejos para que se proteja en la red. Ministerio de Tecnologías de la Información y las Comunicaciones.',
+      link:
+        'https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/15607:Los-delincuentes-ciberneticos-no-toman-vacaciones-consejos-para-que-se-proteja-en-la-red',
+    },
+    {
+      referencia:
+        'National Institute of Standards and Technology (NIST). (2024). The NIST Cybersecurity Framework (CSF) 2.0.',
+      link: 'https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf',
+    },
+    {
+      referencia:
+        'Paredes, A. R. Z., Quevedo, I. M. S., & Chalacán, L. J. M. (2020). Seguridad informática en las PyMES de la ciudad de Quevedo. Journal of Business and Entrepreneurial Studies: JBES, 4(2), 232-241.',
+      link: '',
+    },
+    {
+      referencia:
+        'Paya-Santos, C., & Luque-Juárez, J. M. (2021). El sistema de inteligencia criminal ante las nuevas amenazas y oportunidades del ciberespacio. Revista Científica General José María Córdova, 19(36), 1121-1136.',
+      link: 'https://doi.org/10.21830/19006586.855',
     },
   ],
   creditos: [
@@ -227,10 +324,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Juan Carlos Camargo Solano',
-          cargo: 'Experta temática',
-          centro:
-            'Centro Nacional de Hotelería, Turismo y Alimentos - Regional Distrito Capital',
+          nombre: 'Javier Eduardo Díaz Machuca',
+          cargo: 'Experto temático',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Viviana Esperanza Herrera Quiñonez',
@@ -244,22 +340,17 @@ export default {
       autores: [
         {
           nombre: 'Oscar Ivan Uribe Ortiz',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador <em>web</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Juan Daniel Polanco Muñoz',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador <em>web</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Gilberto Junior Rodríguez Rodríguez',
-          cargo: 'Animador y productor audiovisual',
+          nombre: 'Sebastian Trujillo Afanador',
+          cargo: 'Desarrollador <em>Fullstack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -273,17 +364,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
           nombre: 'Jorge Bustos Gómez',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Javier Mauricio Oviedo',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },

@@ -136,7 +136,7 @@
           .crd_hover_txt--body
             h5.t1.mb-3 Crimenes organizados
             h5.t2.mb-2 Crimenes organizados
-            p.mb-0 Redes delicitivas que operan en la web oscura para cometer fraudes, extorsiones y otros delitos financieros.
+            p.mb-0 Redes delicitivas que operan en la <em>web</em> oscura para cometer fraudes, extorsiones y otros delitos financieros.
 
       .col-xl-4.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")(@mouseover="mostrarIndicador = true")
@@ -220,7 +220,7 @@
               .col-6.col-lg-8
                 img(src="@/assets/curso/temas/tema3/img21.svg", alt="alt").img100.m-auto
             h4.titulo-1 Delitos contra la privacidad
-            p.mb-0 Uso indebido de datos personales para extorsión, suplantación de identidad o comercialización ilegal en la web oscura, lo que compromete la seguridad y derechos de las víctimas.
+            p.mb-0 Uso indebido de datos personales para extorsión, suplantación de identidad o comercialización ilegal en la <em>web</em> oscura, lo que compromete la seguridad y derechos de las víctimas.
 
           .tarjeta.tarjeta--slyder.p-4
             .row.justify-content-center.mb-3
@@ -340,7 +340,7 @@
                 figure
                   img(src='@/assets/curso/temas/tema2/img06.png', alt='Imagen decorativa')
               .col-lg-10.col-12
-                p.mb-0 La creciente popularidad de las criptomonedas también ha facilitado actividades ilegales, como el lavado de dinero y el uso de mercados oscuros en la web. Además, el cibercrimen se ha extendido al ámbito de la desinformación, donde los cibercriminales manipulan la opinión pública mediante fake news y bots en redes sociales, afectando elecciones, movilizaciones y creando caos social.
+                p.mb-0 La creciente popularidad de las criptomonedas también ha facilitado actividades ilegales, como el lavado de dinero y el uso de mercados oscuros en la <em>web</em>. Además, el cibercrimen se ha extendido al ámbito de la desinformación, donde los cibercriminales manipulan la opinión pública mediante <em>fake news</em> y <em>bots</em> en redes sociales, afectando elecciones, movilizaciones y creando caos social.
 
           .col-lg-4.col-6.col-md-6.col-8.order-lg-1.order-1.mb-lg-0.mb-3
             figure
@@ -428,7 +428,7 @@
       .py-4.py-md-5(titulo="En línea" :icono="require('@/assets/curso/temas/tema3/img42.svg')")
         .row.justify-content-center.p-4
           .col-lg-5.order-lg-2.order-2
-            p A través de la página web de la Fiscalía General de la Nación, los ciudadanos pueden realizar denuncias de manera virtual. Esta opción facilita el proceso y permite la presentación de pruebas de forma directa y eficiente.
+            p A través de la página <em>web</em> de la Fiscalía General de la Nación, los ciudadanos pueden realizar denuncias de manera virtual. Esta opción facilita el proceso y permite la presentación de pruebas de forma directa y eficiente.
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/temas/tema3/img48.jpg', alt='Imagen decorativa')
@@ -501,7 +501,7 @@
           img(src='@/assets/curso/temas/tema3/img57.svg' alt='AvatarTop' style="width: 99px; bottom: 125px").m-auto
           .tarjeta.color-hover.w-100
             .p-4
-              P.text-center <b>Concienciación y formación en ciberseguridad:</b> las organizaciones y personas deben recibir formación en buenas prácticas de ciberseguridad, como el reconocimiento de correos electrónicos sospechosos o sitios web fraudulentos.
+              P.text-center <b>Concienciación y formación en ciberseguridad:</b> las organizaciones y personas deben recibir formación en buenas prácticas de ciberseguridad, como el reconocimiento de correos electrónicos sospechosos o sitios <em>web</em> fraudulentos.
 
       .col-lg-4.mb-lg-0.mb-3(data-aos="flip-down")
         .tarjeta-avatar
